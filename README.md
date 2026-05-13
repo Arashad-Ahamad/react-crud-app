@@ -21,6 +21,15 @@ This project demonstrates how to perform all CRUD operations with API integratio
 * REST API (JSONPlaceholder)
 * CSS
 
+---
+## 🔗 Live
+
+[View Live Project](https://react-crud-app-arashad.netlify.app/)
+
+---
+
+
 ## 👨‍💻 Author
 
-Arashad Ahamad
+**Arashad Ahamad**
+- Email: 96arashad@gmail.com
